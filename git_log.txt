@@ -1,0 +1,82 @@
+commit ac1e8c78e1fa3cf2fc6b40f87783ad6ab7e4a5c0
+Author: ponce <ponceluis974@gmail.com>
+Date:   Fri Jan 31 13:43:04 2025 -0800
+
+    fixed merges
+
+commit 702543a791ac790e73734cedb5af1ce5f41200e2
+Merge: d1da2f2 d38a30e
+Author: ponce <ponceluis974@gmail.com>
+Date:   Fri Jan 31 13:39:36 2025 -0800
+
+    trying to fix merge
+
+commit d38a30ec68f90c3879244c0b5b09eff6f79b5404
+Author: ponce <ponceluis974@gmail.com>
+Date:   Fri Jan 31 13:38:16 2025 -0800
+
+    added fav movie
+
+commit d1da2f2027197f673fee8c9eb1edc68c01ec5f56
+Author: ponce <ponceluis974@gmail.com>
+Date:   Fri Jan 31 13:37:46 2025 -0800
+
+    added food
+
+commit 06e44dd37f2e615996575c3ed2e1d0885e0637c8
+Author: ponce <ponceluis974@gmail.com>
+Date:   Fri Jan 31 13:36:53 2025 -0800
+
+    trying to merge again
+
+commit cd455a49eb9f171bc89047c0ab886b3b323063a1
+Merge: a93c8fb 8be63b3
+Author: ponce <ponceluis974@gmail.com>
+Date:   Fri Jan 31 13:31:20 2025 -0800
+
+    fixed merge conflict
+
+commit 8be63b3bafc5182130df057f1b2b15a3673fddce
+Author: ponce <ponceluis974@gmail.com>
+Date:   Fri Jan 31 13:28:20 2025 -0800
+
+    Added my favorite movie branch
+
+commit a93c8fb018697165de10fd884459456001ed5034
+Author: ponce <ponceluis974@gmail.com>
+Date:   Fri Jan 31 13:26:07 2025 -0800
+
+    added favorite food main branch
+
+commit d54390b783e2f85498f4d71cf5f57fc121a2ea78
+Author: ponce <ponceluis974@gmail.com>
+Date:   Fri Jan 31 13:23:53 2025 -0800
+
+    added div
+
+commit 69871fb27d390d66d5db3074c9856059c3ce9574
+Author: Luis Ponce <46308715+Prisol7@users.noreply.github.com>
+Date:   Fri Jan 31 13:05:23 2025 -0800
+
+    Create README.md
+
+commit 9f9bec3a23375816e743c03af4540aa85b09d20c
+Merge: 1d2bfc0 35cd2da
+Author: Luis Ponce <46308715+Prisol7@users.noreply.github.com>
+Date:   Fri Jan 31 13:03:50 2025 -0800
+
+    Merge pull request #1 from Prisol7/info-fill
+    
+    filled in the blank
+
+commit 35cd2da674a7c5501ac94c5a273c73efab161250
+Author: ponce <ponceluis974@gmail.com>
+Date:   Fri Jan 31 12:48:31 2025 -0800
+
+    filled in the blank
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
